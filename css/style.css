@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+/* header */
+
+#logo{
+
+    height: 100px;
+
+    vertical-align: middle;
+
+}
+
+h1{
+    display: inline-block;
+
+    font-size: 50px;
+}
+
+/* fina header */

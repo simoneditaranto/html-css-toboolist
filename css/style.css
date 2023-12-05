@@ -47,3 +47,60 @@ button{
 
 /* fina nav */
 
+/* main */
+
+/* sezione new task */
+
+.title-list{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.green-cirle{
+
+    display: inline-block;
+    
+    width: 15px;
+    height: 15px;
+
+    border-radius: 50%;
+    border: 1px solid green;
+
+    font-size: 10px;
+    text-align: center;
+
+    color: green;
+
+}
+
+.text{
+    display: inline-block;
+}
+
+.rectangle{
+
+    display: inline-block;
+
+    background-color: rgb(0, 153, 255);
+
+    padding: 5px;
+
+    border-radius: 10px;
+
+    color: white;
+}
+
+/* fina sezione new task */
+
+
+
+
+
+
+
+
+
+
+/* fine main */
+
+

@@ -19,3 +19,31 @@ h1{
 }
 
 /* fina header */
+
+
+/* nav */
+
+button{
+
+    padding: 8px;
+
+    border-radius: 10px;
+    
+}
+
+#add-task{
+    background-color: lightblue;
+    color: white;
+    border: none;
+}
+
+#add-section{
+    
+    border-color: grey;
+    border: 1px solid grey;
+
+    color: grey;
+}
+
+/* fina nav */
+

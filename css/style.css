@@ -5,11 +5,11 @@
 }
 
 body{
+
+    font-family: sans-serif;
+
     background-color: #F6F8F9;
 }
-
-/* FONT DA CAMBIARE */
-/* BACKGROUND-COLOR DA CAMBIARE */
 
 /* header */
 
@@ -73,10 +73,11 @@ button{
 
 #add-section{
     
-    border-color: grey;
-    border: 1px solid grey;
+    border-color: #C9CED3;
+    border: 1px solid #C9CED3;
 
-    color: grey;
+    background-color: white;
+    color: #C9CED3;
 }
 
 /* fina nav */
@@ -98,19 +99,18 @@ main{
 
 /* sezione new task */
 
-.row-text{
-    padding-bottom: 10px;
+.task-element{
+    padding-bottom: 30px;
 }
 
-.title-list{
-    font-size: 20px;
-    font-weight: bold;
+ul{
+    list-style-type: none;
 }
 
 .mini-circle{
 
     display: inline-block;
-    
+
     width: 15px;
     height: 15px;
 
@@ -121,31 +121,43 @@ main{
 
 }
 
-#green-circle{
+.green-circle{
     border: 1px solid #80CDBC;
     color: #80CDBC;
-}
-
-.text{
-    display: inline-block;
 }
 
 .rectangle{
 
     display: inline-block;
 
-    padding: 5px;
+    padding: 8px 14px;
 
-    border-radius: 10px;
+    border-radius: 16px;
 
+    font-size: 12px;
     color: white;
 }
 
-#blue{
+.blue{
 
     background-color: #45ABEA;
 
 }
+
+/* .row-text{
+    padding-bottom: 10px;
+}
+
+.title-list{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text{
+    display: inline-block;
+}
+
+ */
 
 
 

@@ -17,6 +17,8 @@ header{
     background-color: #FFFFFF;
 
     padding: 20px;
+
+    margin-bottom: 70px;
 }
 
 #logo{
@@ -43,8 +45,16 @@ nav{
     width: 1000px;
 
     margin: auto;
+    margin-bottom: 5px;
 
-    padding-bottom: 30px;
+    background-color: #FFFFFF;
+}
+
+#buttons{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+
 }
 
 button{
@@ -78,7 +88,13 @@ main{
     width: 1000px;
 
     margin: auto;
+
+    padding: 25px 50px;
+
+    background-color: #FFFFFF;
 }
+
+/* fine main */
 
 /* sezione new task */
 
@@ -169,6 +185,6 @@ main{
 }
 /* fine sezione upcoming */
 
-/* fine main */
+
 
 

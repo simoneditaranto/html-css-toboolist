@@ -1,6 +1,11 @@
 *{
+    /* da aggiungere */
+    /* margin: 0 */
     box-sizing: border-box;
 }
+
+/* FONT DA CAMBIARE */
+/* BACKGROUND-COLOR DA CAMBIARE */
 
 /* header */
 
@@ -16,6 +21,8 @@ h1{
     display: inline-block;
 
     font-size: 50px;
+
+    vertical-align: middle;
 }
 
 /* fina header */
@@ -115,6 +122,8 @@ main{
 
 }
 
+
+
 /* fina sezione new task */
 
 
@@ -137,7 +146,7 @@ main{
     background-color: #F29E33;
 }
 
-/* fina sezione today */
+/* fine sezione today */
 
 
 /* sezione upcoming */

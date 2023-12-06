@@ -1,7 +1,11 @@
 *{
-    /* da aggiungere */
-    /* margin: 0 */
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
+}
+
+body{
+    background-color: #F6F8F9;
 }
 
 /* FONT DA CAMBIARE */
@@ -9,9 +13,13 @@
 
 /* header */
 
-#logo{
+header{
+    background-color: #FFFFFF;
 
-    height: 100px;
+    padding: 20px;
+}
+
+#logo{
 
     vertical-align: middle;
 
@@ -20,9 +28,10 @@
 h1{
     display: inline-block;
 
-    font-size: 50px;
-
     vertical-align: middle;
+
+    font-size: 50px;
+    
 }
 
 /* fina header */

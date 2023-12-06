@@ -144,42 +144,26 @@ ul{
 
 }
 
-/* .row-text{
-    padding-bottom: 10px;
-}
-
-.title-list{
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.text{
-    display: inline-block;
-}
-
- */
-
-
 
 /* fina sezione new task */
 
 
 /* sezione today */
 
-#violet{
+.violet{
     background-color: #9C72E4;
 }
 
-#green{
-    background-color: #64C0A9;
-}
-
-#red-circle{
+.red-circle{
     border: 1px solid #ED7671;
     color: #ED7671;
 }
 
-#orange{
+.green{
+    background-color: #64C0A9;
+} 
+
+.orange{
     background-color: #F29E33;
 }
 
